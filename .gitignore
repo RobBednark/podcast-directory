@@ -1,2 +1,4 @@
 *.db
 *.tgz
+*.sqbpro
+output/
